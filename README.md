@@ -64,3 +64,6 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
+![WeatherCardApp Screenshot](https://github.com/Hulff/weatherapp/blob/master/imgs/plain.png?raw=tru)
+![WeatherCardApp Screenshot](https://github.com/Hulff/weatherapp/blob/master/imgs/loading.png?raw=true)
+
