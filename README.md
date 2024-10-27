@@ -4,7 +4,7 @@
 **WeatherCardApp** é uma aplicação de clima projetada para manter os usuários informados sobre as previsões meteorológicas em várias cidades ao redor do mundo. A aplicação oferece uma experiência web dinâmica e responsiva, facilitando o acesso a informações climáticas atualizadas.
 
 ## **Link para Demonstração**
-[Link para acesso](#) *(https://webweatherbyhulff.netlify.app/)*
+[Link para acesso](https://webweatherbyhulff.netlify.app/)
 
 ## **Tecnologias Utilizadas**
 
